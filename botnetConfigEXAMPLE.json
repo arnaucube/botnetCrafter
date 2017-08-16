@@ -1,0 +1,7 @@
+{
+    "phone-number": "123456789",
+    "bots": [{
+        "full-name": "bot1accountname",
+        "password": "awesome password here 000"
+    }]
+}
